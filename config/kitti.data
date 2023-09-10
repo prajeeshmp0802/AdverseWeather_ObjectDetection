@@ -1,0 +1,6 @@
+classes=8
+train=/mnt/deeplearning/users/gsistu/prajeesh_tmp/PyTorch-YOLOv3-kitti-master/data/kitti/train.txt
+valid=/mnt/deeplearning/users/gsistu/prajeesh_tmp/PyTorch-YOLOv3-kitti-master/data/kitti/val.txt
+names=/mnt/deeplearning/users/gsistu/prajeesh_tmp/PyTorch-YOLOv3-kitti-master/data/kitti.names
+backup=backup/
+eval=kittiv1
